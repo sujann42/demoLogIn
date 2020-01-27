@@ -1,0 +1,8 @@
+
+ksquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(â…ÍÆÿÿÿÿÿ
+dsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.( éæ¶ýÿÿÿÿ
+^squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Esquid:S2115")Add password protection to this database.( éæ¶ýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(©è¬àýÿÿÿÿ

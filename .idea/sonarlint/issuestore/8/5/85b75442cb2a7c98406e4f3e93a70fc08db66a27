@@ -1,0 +1,8 @@
+
+\squid:UselessImportCheck",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8’½“Øù-
+Wsquid:S2251"9"j" is incremented and will never reach "stop condition".(Àº¤8’½“Øù-
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£²İ¯ûÿÿÿÿ8’½“Øù-
+Fsquid:S1481"(Remove this unused "ans" local variable.(éÂäã8’½“Øù-
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(ç’¤™8–€™Øù-
+@squid:S2189""Correct this loop's end condition.(Àº¤8’½“Øù-
